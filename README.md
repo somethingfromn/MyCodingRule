@@ -1,2 +1,2 @@
-# My_Coding_Rule
+# MyCodingRule
 The things you never forget while coding
