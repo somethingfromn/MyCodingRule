@@ -10,7 +10,8 @@
 
 ## 1: Mathematical Induction (From BJO)
   ### 1. Sovle the coding problem with human brain step and pensil
-  ### 2. Make a plan how to apply that way very efficient in computer's steps
+  ### 2. Make a plan how to apply that way very efficient in computer's steps, and Consider there's another plan.
+  ### 3. Aussme which one is faster than the other, and Select one soultion.
   ### 3. And Do it.
 
 ### 2nd: 
