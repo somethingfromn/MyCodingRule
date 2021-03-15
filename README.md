@@ -8,9 +8,9 @@
 
 # When you try to solve the coding problems
 
-## 1st: Mathematical Induction
-  ### Sovle the coding problem with human brain step and pensil
-  ### Make a plan how to apply that way very efficient in computer's steps
-  ### And Do it.
+## 1: Mathematical Induction
+  ### 1. Sovle the coding problem with human brain step and pensil
+  ### 2. Make a plan how to apply that way very efficient in computer's steps
+  ### 3. And Do it.
 
 ### 2nd: 
